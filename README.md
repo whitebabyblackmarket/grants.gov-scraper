@@ -4,6 +4,7 @@ A robust web scraping solution for extracting and analyzing grant opportunities 
 
 ## 📁 Project Structure 
 
+```
 grants-scraper/
 ├── README.md # This file
 ├── scrape_links.py # Phase 1: Scrapes grant listings and URLs
@@ -12,6 +13,7 @@ grants-scraper/
 ├── utilities.py # Shared utility functions (logging, retry logic)
 ├── grant_ids.csv # Output from Phase 1
 └── grant_details.csv # Output from Phase 2
+```
 
 
 
