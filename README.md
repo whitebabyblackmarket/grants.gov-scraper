@@ -5,6 +5,7 @@ A robust web scraping solution for extracting and analyzing grant opportunities 
 ## 📁 Project Structure 
 
 grants-scraper/
+├── README.md # This file
 ├── scrape_links.py # Phase 1: Scrapes grant listings and URLs
 ├── scrape_details.py # Phase 2: Scrapes detailed grant information
 ├── parser.py # HTML parsing utilities and data extraction
